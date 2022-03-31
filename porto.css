@@ -150,7 +150,7 @@
     padding: 10px;
     border-radius: 15px;
     background: linear-gradient(to top,orchid 50%,white 50%);
-    background-size: 100% 200%;
+    background-size: 100% 500%;
     transition: all .8s;
     box-shadow: 0 0 5px orchid, 0 0 10px orchid, 0 0 15px orchid;
 }
